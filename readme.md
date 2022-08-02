@@ -33,4 +33,5 @@ pip install webdriver-manager
 pip freeze > requirements.txt
 ```
 
+https://pypi.org/project/beautifulsoup4/
 
